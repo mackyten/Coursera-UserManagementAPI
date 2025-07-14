@@ -1,0 +1,7 @@
+/Users/angelo/dev_projects/Coursera/UserManagementAPI/obj/Debug/net8.0/UserManagementAPI.csproj.AssemblyReference.cache
+/Users/angelo/dev_projects/Coursera/UserManagementAPI/obj/Debug/net8.0/UserManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelo/dev_projects/Coursera/UserManagementAPI/obj/Debug/net8.0/UserManagementAPI.AssemblyInfoInputs.cache
+/Users/angelo/dev_projects/Coursera/UserManagementAPI/obj/Debug/net8.0/UserManagementAPI.AssemblyInfo.cs
+/Users/angelo/dev_projects/Coursera/UserManagementAPI/obj/Debug/net8.0/UserManagementAPI.csproj.CoreCompileInputs.cache
+/Users/angelo/dev_projects/Coursera/UserManagementAPI/obj/Debug/net8.0/UserManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/angelo/dev_projects/Coursera/UserManagementAPI/obj/Debug/net8.0/UserManagementAPI.MvcApplicationPartsAssemblyInfo.cache
